@@ -41,7 +41,7 @@ In summary, named tuples are concise and effective, and share some similarities 
 
 # Dataclasses
 
-Many objects are created mainly for the attributes and not for the methods, i.e. they are created as a storage. Python 3.7 introduced _data classes_, let's see how they help is simplify a traditional object.
+Many objects are created mainly for the attributes and not for the methods, i.e. they are created as a storage. Python 3.7 introduced _data classes_, let's see how they help simplify a traditional object.
 
 ```python
 class Gadget():
