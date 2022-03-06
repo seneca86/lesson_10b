@@ -37,7 +37,7 @@ Because of immutability, the next assignment will not work.
 model3.name = 'Model Y'
 ```
 
-In summary, named tuples are concide and effective, and share some similarities with dictionaries.
+In summary, named tuples are concise and effective, and share some similarities with dictionaries.
 
 # Dataclasses
 
